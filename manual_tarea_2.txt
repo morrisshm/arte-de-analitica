@@ -1,0 +1,3 @@
+El archivo "Tarea_2_Pandas" corresponde al archivo de la Tarea 2.
+Dentro de este codigo, tenemos la lectura del archivo covid. 
+Clonar este repositorio, y abrir "Tarea_2_Pandas" en Jupiter Notebook	
